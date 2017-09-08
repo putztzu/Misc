@@ -1,0 +1,6 @@
+default.desktop
+enlightenment.desktop
+gnome.desktop
+icewm.desktop
+icewm-session.desktop
+xsession.desktop

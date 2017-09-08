@@ -1,0 +1,15 @@
+Loading repository data...
+Reading installed packages...
+
+S  | Name          | Summary                    | Type   
+---+---------------+----------------------------+--------
+i  | apparmor      | AppArmor                   | pattern
+i  | base          | Base System                | pattern
+i  | enhanced_base | Enhanced Base System       | pattern
+i+ | enlightenment | Enlightment                | pattern
+i  | fonts         | Fonts                      | pattern
+i  | imaging       | Graphics                   | pattern
+i  | multimedia    | Multimedia                 | pattern
+i  | sw_management | Software Management        | pattern
+i  | x11           | X Window System            | pattern
+i  | yast2_basis   | YaST System Administration | pattern
